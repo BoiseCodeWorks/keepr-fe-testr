@@ -1,0 +1,1 @@
+[type=checkbox]:checked,[type=checkbox]:not(:checked){opacity:unset;pointer-events:unset;position:unset}.fa-trash{color:red}
